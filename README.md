@@ -9,7 +9,7 @@
 
 ## Tech Stack
 * **Backend**: Django, Django Rest Framework; my libraries AlgoGEARS and AlgoGrade, both utilizing Pydantic and Pytest
-* **Frontend**: React, ReactFlow, Bootstap, Bootswatch, React Bootstrap, react-beautiful-dnd, JavaScript Cookie
+* **Frontend**: React, ReactFlow, Bootstrap, Bootswatch, React Bootstrap, react-beautiful-dnd, JavaScript Cookie
 
 ## Demo
 
